@@ -3,7 +3,7 @@ Develop a standardized communication protocol and stack for remote intervention 
 
 **NOTE: This project is under active development. Documentation will be added as and when features will become available. Until that first commit, this README will host general information such as objectives and timelines about the project.**
 
-This project adheres to the Contributor Covenant [code of conduct](/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@cognicept.systems](mailto:info@cognicept.systems). If you are interested in contributing, please refer to the guidelines [here](/CONTRIBUTING.md).
+This project adheres to the Contributor Covenant [code of conduct](/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to [info@cognicept.systems](mailto:info@cognicept.systems). If you are interested in contributing, please refer to the guidelines [here](/CONTRIBUTING.md).
 
 Table of Contents:
 - [Problem Statement](#problem-statement)
