@@ -15,7 +15,7 @@ Table of Contents:
 
 The best robots face downtime in any industry, not just because of robot based errors, but also operational errors stimulated by the environment of third party sensors and other processes. A higher number of errors are reported when the robots are deployed in new facilities or new scope of work, and thus significantly affecting the mass deployment of these robots. Robot companies with >10K deployments starts building their own standards, but a blind spot exists when the client works with multiple robot vendors for its operations. Moreover, there are certain applications that require a manual/supervised mode of operation, and a remote intervention tool becomes critical to support day-to-day operations.
 
-Proposed are tools and services that will provide a generalised Error Classification Stack for the existing and future robot companies to monitor, manage and analyse the robot errors, assist the companies to reduce their downtime, and help them deploy at a new workplace with a complete insight of all the site based errors. Also proposed are remote intervention tools, that will allow remote site to intervene at the point of error or an operational call.
+Proposed are tools and services that will provide a generalised Error Classification Stack for the existing and future robot companies to monitor, manage and analyse the robot errors, assist the companies to reduce their downtime, and help them deploy robots at a new workplace with a complete insight of all the site based errors. Also proposed are remote intervention tools, that will allow remote site to intervene at the point of error or an operational call.
  
 ## Scope
 
